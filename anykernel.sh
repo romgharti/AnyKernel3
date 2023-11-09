@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=mojito
 device.name2=sunny
-supported.versions=11-13
+supported.versions=11-14
 supported.patchlevels=
 '; } # end properties
 
